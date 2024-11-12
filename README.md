@@ -238,9 +238,8 @@
   
   
   
-  <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-  <iframe loading="lazy" title="5 Minute Profits" width="900" height="506" src="https://www.youtube.com/embed/sH78ewnE0jE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
-  </div></figure>
+  <iframe width="100%" height="500px" src="https://www.youtube.com/embed/sH78ewnE0jE?si=XMooiiod8Nwgaa1a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  
   
   
   
